@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "ja": "北海道",
+      "en": "Hokkaido"
+    },
+    "lines": [
+      {
+        "id": 11101,
+        "name": {
+          "ja": "JR函館本線(函館～長万部)",
+          "en": "JR Hakodate Main Line (Hakodate-Oshimanbu)"
+        },
+        "lat": 42.23981411231523,
+        "lng": 140.4833696755387,
+        "zoom": 9
+      },
+      {
+        "id": 11102,
+        "name": {
+          "ja": "JR函館本線(長万部～小樽)",
+          "en": "JR Hakodate Main Line (Oshimanbu ~ Otaru)"
+        },
+        "lat": 42.919910231257624,
+        "lng": 140.64288780797756,
+        "zoom": 9
+      },
+      {
+        "id": 11103,
+        "name": {
+          "ja": "JR函館本線(小樽～旭川)",
+          "en": "JR Hakodate Main Line (Otaru-Asahikawa)"
+        },
+        "lat": 43.41509739716935,
+        "lng": 141.69791081566132,
+        "zoom": 9
+      }
+    ]
+  }
+]
